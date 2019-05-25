@@ -1,0 +1,3 @@
+# Please check the PNG files I submitted in the repo for each plot generated with my code, feel free to test it on your R studio.
+# Variables: subdata = reads only the data from the specified dates from the project instructions. 
+# subdata$Date formats the date in order to be plotted, subdata$Time formats the time in order to be plotted
